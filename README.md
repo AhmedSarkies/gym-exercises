@@ -1,6 +1,6 @@
 # [Demo](https://sarkies-gym-exercises-app.netlify.app/)
 
-## To Clone the repo: git clone https://github.com/AhmedSarkies/gym-exercises.git
+## To Clone the repo: `git clone https://github.com/AhmedSarkies/gym-exercises.git`
 
 ## Then you should install the node modules via: `npm i` or `npm install`
 
